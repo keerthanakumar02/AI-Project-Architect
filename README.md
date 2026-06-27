@@ -120,14 +120,14 @@ http://127.0.0.1:5500
 ### 🏠 Home Page — Dark Mode
 ![Home Page](Screenshot%202026-06-27%20182320.png)
 
-### 💜 Light Mode
-![Light Mode](1782576416096_image.png)
+### 👀 Preview Website
+![Preview](Screenshot%202026-06-27%20213356.png)
 
 ### 📜 Project History
 ![Project History](Screenshot%202026-06-27%20213423.png)
 
-### 👀 Preview Website
-![Preview](Screenshot%202026-06-27%20213647.png)
+### 💜 Light Mode
+![Light Mode](Screenshot%202026-06-27%20213647.png)
 
 ---
 
